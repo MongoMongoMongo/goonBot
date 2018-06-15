@@ -393,12 +393,5 @@ bot.on('ready', () => {
   bot.user.setActivity('Use >commands')
 })
 
-//bot login token : Prime Goon
-//https://discordapp.com/oauth2/authorize?client_id=450838438829228043&scope=bot&permissions=2146958591
-//bot.login('NDUwODM4NDM4ODI5MjI4MDQz.De5l9g.zX4tWMtIjtGG-vLlM5aQ1n-7HG8')
-
 bot.login(process.env.BOT_TOKEN)
 
-//bot login token : Beta Goon
-//https://discordapp.com/oauth2/authorize?client_id=450861691643887617&scope=bot&permissions=3072
-//bot.login('NDUwODYxNjkxNjQzODg3NjE3.De5ZMQ.alM8agGMdHouODof8VF3c5S2RUw')
