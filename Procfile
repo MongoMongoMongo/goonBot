@@ -1,1 +1,1 @@
-worker: node.js goonBot.js
+worker: node goonBot.js
