@@ -1,0 +1,12 @@
+{
+  "name": "GoonBot",
+  "description: "GoonBot",
+  "version": "1.0.0",
+  "main": "goonBot.js",
+  "script": {
+    "start": "node goonBot.js"
+  },
+  "dependencies": {
+    "discord.js": "11.3.0"
+  }
+}
