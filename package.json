@@ -1,6 +1,6 @@
 {
   "name": "GoonBot",
-  "description: "GoonBot",
+  "description": "GoonBot",
   "version": "1.0.0",
   "main": "goonBot.js",
   "script": {
